@@ -1,0 +1,1 @@
+mongoimport -d sample -c AirlineDB --authenticationDatabase admin --username admin --password pass --jsonArray --file data/db/AirlineDB.json
